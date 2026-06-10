@@ -55,10 +55,10 @@ PhD candidate in Statistics & Operations Research at the University of Lisbon (F
 
 ## Background
 
-- **PhD** in Statistics & Operations Research — FCUL, University of Lisbon (2025 -- present)
-- **MSc** in Applied Mathematics for Industry — ISEL, Lisbon (2022 -- 2024)
-- **Erasmus** in Applied Mathematics — INSA Toulouse, France (2023 -- 2024)
-- **BSc** in Mathematics Applied to Technology and Enterprise — ISEL, Lisbon (2018 -- 2022)
+- **PhD** in Statistics & Operations Research — FCUL, University of Lisbon (2025 – present)
+- **MSc** in Applied Mathematics for Industry — ISEL, Lisbon (2022 – 2024)
+- **Erasmus** in Applied Mathematics — INSA Toulouse, France (2023 – 2024)
+- **BSc** in Mathematics Applied to Technology and Enterprise — ISEL, Lisbon (2018 – 2022)
 
 Experience includes data engineering and automation at Informa Markets (Switzerland), AI engineering at Infraestruturas de Portugal, data science research with Ubisoft, and 3D robotics programming at CDRSP.
 

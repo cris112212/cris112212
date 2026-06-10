@@ -1,0 +1,6 @@
+# Local tooling
+.claude/
+
+# Windows artifacts
+Thumbs.db
+desktop.ini
